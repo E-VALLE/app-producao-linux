@@ -3,3 +3,4 @@ logs/*.log
 backend/.env
 logs/*.txt
 pids/
+backups/
