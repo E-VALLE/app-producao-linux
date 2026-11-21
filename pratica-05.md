@@ -1,4 +1,4 @@
-# Prática 05 (desafio opcional): Governança do ambiente
+# Prática 05 (desafio opcional): Automação e Systemd
 
 ## Atividade 1: Execução e auditoria do script de backup
 
